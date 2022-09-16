@@ -1,7 +1,7 @@
 ---
 title: "Github Actions"
 date: 2022-09-16T11:02:14+07:00
-draft: true
+draft: false
 ---
 
 
